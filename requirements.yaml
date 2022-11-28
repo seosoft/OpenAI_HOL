@@ -1,0 +1,17 @@
+name: OpenAIHol
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - python-dotenv
+  - pandas
+  - pillow
+  - pip
+  - python>=3.8
+  - scikit-learn
+  - yaml
+  - pip:
+    - openai
