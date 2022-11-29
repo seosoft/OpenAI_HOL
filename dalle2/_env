@@ -1,1 +1,1 @@
-API_KEY='ここに OpenAI の API キー'
+OPENAI_API_KEY='ここに OpenAI の API キー'
